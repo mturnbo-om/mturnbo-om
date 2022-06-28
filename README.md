@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @mturnbo-om
+- 👀 I’m interested in software development
+- 🌱 I’m currently learning TypeScript and Ruby
+- 💞️ I’m looking to collaborate on One Medical tasks
